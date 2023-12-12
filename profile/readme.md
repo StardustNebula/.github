@@ -19,3 +19,5 @@ We believe that people should feel safe online, without worry about being tracke
 This organization was started by [@puppynuff](https://github.com/puppynuff), for free and open source software
 
 Mostly going to be long term projects, and modding applications.
+
+Note: Need to revamp this page.

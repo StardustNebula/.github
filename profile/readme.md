@@ -6,12 +6,12 @@ My goal with this to is make a safer space for people, and make modifications fo
 
 ### For a safer, more open online experience.
 
-Our Goals:
+## Our Goals:
 
-## Software freedom.
+### Software freedom.
 We believe that when you buy software, it should be entirely within your rights to modify it, as long as it doesn't negatively affect other users.
 
-## Safer online experience
+### Safer online experience
 We believe that people should feel safe online, without worry about being tracked. In the end, we hope to make a safter space for people, without ads or tracking.
 
 ------------
